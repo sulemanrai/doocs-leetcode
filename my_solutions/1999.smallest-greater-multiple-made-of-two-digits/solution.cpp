@@ -1,0 +1,10 @@
+#include <queue>
+#include <climits>
+using namespace std;
+
+class Solution {
+public:
+    int findInteger(int k, int digit1, int digit2) {
+        // TODO: implement
+    }
+};

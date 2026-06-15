@@ -1,0 +1,11 @@
+#include <vector>
+#include <string>
+#include <unordered_map>
+using namespace std;
+
+class Solution {
+public:
+    vector<vector<string>> groupStrings(vector<string>& strings) {
+        // TODO: implement
+    }
+};

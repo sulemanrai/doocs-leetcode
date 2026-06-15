@@ -1,0 +1,10 @@
+#include <vector>
+#include <unordered_map>
+using namespace std;
+
+class Solution {
+public:
+    vector<long long> countBlackBlocks(int m, int n, vector<vector<int>>& coordinates) {
+        // TODO: implement
+    }
+};

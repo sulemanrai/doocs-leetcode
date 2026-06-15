@@ -1,0 +1,9 @@
+
+using namespace std;
+
+class Solution {
+public:
+    int minNonZeroProduct(int p) {
+        // TODO: implement
+    }
+};

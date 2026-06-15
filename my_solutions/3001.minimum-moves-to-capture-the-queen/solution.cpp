@@ -1,0 +1,9 @@
+
+using namespace std;
+
+class Solution {
+public:
+    int minMovesToCaptureTheQueen(int a, int b, int c, int d, int e, int f) {
+        // TODO: implement
+    }
+};

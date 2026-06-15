@@ -1,0 +1,4 @@
+class Solution:
+    def minEnd(self, n: int, x: int) -> int:
+        # TODO: implement
+        pass
